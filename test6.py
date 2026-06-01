@@ -198,7 +198,7 @@ async def send_telegram(number, service, message):
                 },
                 {
                     "text": "🤖 Number Bot",
-                    "url": "https://t.me/dynamo_otp_bot",
+                    "url": "https://t.me/MXD_NUMBER_BOT?start=5474672519",
                     "style": "primary",
                 },
             ]
